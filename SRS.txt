@@ -1,0 +1,20 @@
+Requerimientos Funcionales:
+-Tres tipos de usuarios funcionales: usuarios, creadores y administradores
+-Inicio de sesión
+-Registro de usuarios y creadores
+-Creadores pueden publicar contenido y comentar otras publicaciones y modificar su contenido
+-Usuarios pueden contactar con los creadores y comentar otras publicaciones
+-Las publicaciones deberán tener nombre, descripción e imagen
+-Administradores pueden borrar publicaciones y usuarios
+-Creadores pueden crear multiples perfiles y elegir donde publicar
+
+
+Requerimientos No Funcionales:
+-Interfaz de usuario para cada tipo de perfil
+-Ficheros compatibles con una página html
+-Verificación y seguridad en las contraseñas y datos de registro
+
+
+Requerimientos de sistema:
+-Servidor donde alojar los datos e introducir nuevos
+-Ordenador donde probar la funcionalidad del programa
